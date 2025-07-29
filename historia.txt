@@ -1,4 +1,5 @@
 Esta es una prueba local de GIT
 
-estaomso 
-estamos haciendo una prueba
+soy trujimar y estoy viendo un curso de Git
+estamos en este momento realizando varias pruebas 
+para el aprendizaje nutrido en este curso.
