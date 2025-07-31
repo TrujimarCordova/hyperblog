@@ -3,3 +3,5 @@ Esta es una prueba local de GIT
 soy trujimar y estoy viendo un curso de Git
 estamos en este momento realizando varias pruebas 
 para el aprendizaje nutrido en este curso.
+
+cambio de vida
