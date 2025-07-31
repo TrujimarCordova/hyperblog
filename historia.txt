@@ -4,4 +4,4 @@ soy trujimar y estoy viendo un curso de Git
 estamos en este momento realizando varias pruebas 
 para el aprendizaje nutrido en este curso.
 
-cambio de vida.. ahora cambio de maestria
+Este es la prueba de los comandos de checkout.
